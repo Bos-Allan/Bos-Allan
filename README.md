@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Allan BOSQUET a french student in IT in a city called Metz
+- 👋 Hi, I’m Allan BOSQUET a French student in IT in a city called Metz
 - 👀 I’m interested in coding web-app / website / application
-- 
-- 🌱 I’m currently learning a lot of things
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :newspaper: I also do climbing and Street Workout
+- 🌱 I’m currently learning a lot of things (React / Angular / TS / JS ...)
+- 📫 You can reach me on linkedin www.linkedin.com/in/allan-bosquet-263011267
 
 <!---
 Bos-Allan/Bos-Allan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
